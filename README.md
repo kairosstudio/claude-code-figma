@@ -5,7 +5,7 @@ A Claude Code plugin that lets you interact with Figma directly through the brow
 ## Installation
 
 ```bash
-/plugin marketplace add markacianfrani/claude-code-figma
+/plugin marketplace add kairosstudio/claude-code-figma
 /plugin install figma-friend
 ```
 
